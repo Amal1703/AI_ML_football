@@ -6,4 +6,10 @@
 
 - input_data.zip: Contains a video named 08fd33_4.mp4, downloaded from https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view. This is a football game video that we will work on
 
-- output_data_after_yolo_prediction.zip: Contains a video named 08fd33_4.mp4, which is the output of the trained YOLO model applied to the input video 08fd33_4.mp4 (from input_data.zip)
+- output_data_after_yolo_prediction.zip: Contains a video named 08fd33_4.mp4, which is the output of the trained YOLO model applied to the input video 08fd33_4.mp4 (from input_data.zip). See stage_1.ipynb.
+
+- track_stubs.pkl
+
+- stage_1_train_YOLO_model.ipynb
+
+- stage_2.ipynb
